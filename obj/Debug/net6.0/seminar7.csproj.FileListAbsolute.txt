@@ -1,0 +1,15 @@
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\bin\Debug\net6.0\seminar7.exe
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\bin\Debug\net6.0\seminar7.deps.json
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\bin\Debug\net6.0\seminar7.runtimeconfig.json
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\bin\Debug\net6.0\seminar7.dll
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\bin\Debug\net6.0\seminar7.pdb
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\obj\Debug\net6.0\seminar7.csproj.AssemblyReference.cache
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\obj\Debug\net6.0\seminar7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\obj\Debug\net6.0\seminar7.AssemblyInfoInputs.cache
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\obj\Debug\net6.0\seminar7.AssemblyInfo.cs
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\obj\Debug\net6.0\seminar7.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\obj\Debug\net6.0\seminar7.dll
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\obj\Debug\net6.0\refint\seminar7.dll
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\obj\Debug\net6.0\seminar7.pdb
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\obj\Debug\net6.0\seminar7.genruntimeconfig.cache
+D:\Geekbrains\Обучение на верстальщика\Знакомство с языками программирования (семинары)\C#_practive\seminar7\obj\Debug\net6.0\ref\seminar7.dll
